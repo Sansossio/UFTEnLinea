@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="send">Conectarse</string>
+  <string name="ApplicationName">UFT En Linea</string>
+  <string name="LoginName">UFT En Linea</string>
+  <string name="username">Usuario</string>
+  <string name="password">Contraseña</string>
+  <string name="login">UFT ~ Tu cuenta</string>
+  <string name="logout">Desconectarse</string>
+  <string name="realName">Sin nombre</string>
+  <string name="update">Renovar datos</string>
+  <string name="task">Sin tareas pendientes</string>
+</resources>

@@ -1,0 +1,12 @@
+com.uftarturo.Login, UftArturo;md5ba4846359e77dc03e6dc3186f5f01167.Login
+com.uftarturo.Login, UftArturo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ba4846359e77dc03e6dc3186f5f01167.Login
+com.uftarturo.Login;md5ba4846359e77dc03e6dc3186f5f01167.Login
+com.uftarturo.Login;md5ba4846359e77dc03e6dc3186f5f01167.Login
+com.uftarturo.BootReceiver, UftArturo;md5ba4846359e77dc03e6dc3186f5f01167.BootReceiver
+com.uftarturo.BootReceiver, UftArturo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ba4846359e77dc03e6dc3186f5f01167.BootReceiver
+com.uftarturo.BootReceiver;md5ba4846359e77dc03e6dc3186f5f01167.BootReceiver
+com.uftarturo.BootReceiver;md5ba4846359e77dc03e6dc3186f5f01167.BootReceiver
+com.uftarturo.MainActivity, UftArturo;md5ba4846359e77dc03e6dc3186f5f01167.MainActivity
+com.uftarturo.MainActivity, UftArturo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ba4846359e77dc03e6dc3186f5f01167.MainActivity
+com.uftarturo.MainActivity;md5ba4846359e77dc03e6dc3186f5f01167.MainActivity
+com.uftarturo.MainActivity;md5ba4846359e77dc03e6dc3186f5f01167.MainActivity

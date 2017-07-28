@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/relative">
+        <ImageView
+            android:src="@drawable/header"
+            android:layout_width="match_parent"
+            android:layout_height="132.5dp"
+            android:id="@+id/header" />
+        <Button
+            android:text="@+string/update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/update"
+            android:layout_below="@id/header" />
+        <Button
+            android:text="@+string/logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/exit"
+            android:layout_below="@id/update" />
+        <ImageView
+            android:src="@drawable/loading"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/profile"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/exit" />
+        <TextView
+            android:text="@string/realName"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/name"
+            android:layout_toRightOf="@+id/profile"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/exit" />
+        <TextView
+            android:text="@string/task"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/task"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/name"
+            android:layout_toRightOf="@+id/profile" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_below="@+id/task"
+            android:id="@+id/layout"
+            android:layout_margin="10dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@id/relative" />
+    </RelativeLayout>
+</ScrollView>
